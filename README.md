@@ -11,11 +11,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/srisatyavinay" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="srisatyavinay" height="30" width="40" /></a>
-  <a href="https://twitter.com/srisatyavinay" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="srisatyavinay" height="30" width="40" /></a>
-  <a href="https://fb.com/srisatyavinay" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" alt="srisatyavinay" height="30" width="40" /></a>
-  <a href="https://github.com/srisatyavinay" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="srisatyavinay" height="30" width="40" /></a>
-  <a href="https://gitlab.com/srisatyavinay" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" alt="srisatyavinay" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/srisatyavinay" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="srisatyavinay" height="30" width="40" /></a>
+  <a href="https://twitter.com/srisatyavinay" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="srisatyavinay" height="30" width="40" /></a>
+  <a href="https://fb.com/srisatyavinay" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" alt="srisatyavinay" height="30" width="40" /></a>
+  <a href="https://github.com/srisatyavinay" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="srisatyavinay" height="30" width="40" /></a>
+  <a href="https://gitlab.com/srisatyavinay" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" alt="srisatyavinay" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
