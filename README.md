@@ -3,7 +3,7 @@
 
 - 👨‍🎓️ I am an undergraduate at International Institute of Information Technology, Hyderabad (IIITH).
 
-- 🌱 I’m currently learning **C++, web development, Blockchain and DevOps**
+- 🌱 I’m currently learning **Deep Learning, Blockchain and DevOps**
 
 - 👯 I’m looking to collaborate on **open source**
 
