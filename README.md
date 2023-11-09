@@ -41,6 +41,7 @@
 <br>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=srisatyavinay&show_icons=true&theme=radical&locale=en&&rank_icon=github&include_all_commits=true" alt="srisatyavinay" /></p>
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=srisatyavinay&layout=compact&show_icons=true&theme=radical&locale=en&include_all_commits=true)
 
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=srisatyavinay&show_icons=true&theme=dark&locale=en&layout=compact" alt="srisatyavinay" /></p> -->
