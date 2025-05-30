@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vinay</h1>
 <h3 align="center">A software developer from India</h3>
 
-- 💻 I am currently working as a software engineer
+- 💻 I am currently working as a software engineer.
 
 - 👨‍🎓️ I graduated from International Institute of Information Technology, Hyderabad (IIITH) with a major in Computer Science and Engineering.
 
