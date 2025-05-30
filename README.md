@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Vinay</h1>
-<h3 align="center">An aspiring software developer from India</h3>
+<h3 align="center">A software developer from India</h3>
 
-- 👨‍🎓️ I am an undergraduate at International Institute of Information Technology, Hyderabad (IIITH) majoring in Computer Science and Engineering.
+- 💻 I am currently working as a software engineer
+
+- 👨‍🎓️ I graduated from International Institute of Information Technology, Hyderabad (IIITH) with a major in Computer Science and Engineering.
 
 - 👯 I’m looking to collaborate on **open source** and work on interesting problems.
 
