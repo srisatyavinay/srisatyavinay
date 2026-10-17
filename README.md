@@ -53,4 +53,4 @@
 
 ### Connect
 
-<a href="https://linkedin.com/in/srisatyavinay" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge" alt="LinkedIn"/></a> <a href="https://srisatyavinay.in" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Portfolio-00274C?style=for-the-badge" alt="Portfolio"/></a>
+<a href="https://linkedin.com/in/srisatyavinay" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge" alt="LinkedIn"/></a> <a href="https://srisatyavinay.com" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Portfolio-00274C?style=for-the-badge" alt="Portfolio"/></a>
